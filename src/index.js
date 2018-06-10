@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { Wrapper } from './index.style';
+import {Wrapper} from './index.style';
 
 const App = () => {
   return (
